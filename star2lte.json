@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1649810117,
-      "filename": "lineage-18.1-20220413-UNOFFICIAL-star2lte-kernel-4.9.309_wg_20211208_SPOOFING.zip",
+      "datetime": 1650480340,
+      "filename": "lineage-18.1-20220420-UNOFFICIAL-star2lte-kernel-4.9.311_wg_20211208_SPOOFING.zip",
       "id": "9e0c402b0636a04aaa91dff3271e7b9e",
       "romtype": "UNOFFICIAL",
-      "size": 626659371,
-      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20220413-UNOFFICIAL-star2lte-kernel-4.9.309_wg_20211208_SPOOFING.zip",
+      "size": 626677059,
+      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20220420-UNOFFICIAL-star2lte-kernel-4.9.311_wg_20211208_SPOOFING.zip",
       "version": "18.1"
     }
   ]
