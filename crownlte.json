@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1650481178,
-      "filename": "lineage-18.1-20220420-UNOFFICIAL-crownlte-kernel-4.9.311_wg_20211208_SPOOFING.zip",
+      "datetime": 1652190711,
+      "filename": "lineage-18.1-20220510-UNOFFICIAL-crownlte-kernel-4.9.311_wg_20211208_SPOOFING.zip",
       "id": "9e0c402b0636a04aaa91dff3271e7b9e",
       "romtype": "UNOFFICIAL",
-      "size": 626967768,
-      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20220420-UNOFFICIAL-crownlte-kernel-4.9.311_wg_20211208_SPOOFING.zip",
+      "size": 626996765,
+      "url": "https://github.com/Geoknyda/OTA/releases/download/Weekly/lineage-18.1-20220510-UNOFFICIAL-crownlte-kernel-4.9.311_wg_20211208_SPOOFING.zip",
       "version": "18.1"
     }
   ]
